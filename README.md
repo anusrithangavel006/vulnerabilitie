@@ -5,9 +5,7 @@
 **A centralized platform for collecting, organizing, analyzing, and understanding software security vulnerabilities.**
 
 <!-- Add your generated banner to the repository as assets/vulncentral-banner.png -->
-<p align="center">
-  <img src="assets/vulncentral-banner.png" alt="VulnCentral Cybersecurity Banner" width="100%">
-</p>
+
 
 <p align="center">
   <strong>Identify Risks • Understand Vulnerabilities • Support Security Decisions</strong>
